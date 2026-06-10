@@ -7,7 +7,9 @@ This project analyzes sales performance across regions, categories, payment mode
 - Power BI
 - Excel / CSV Dataset
 ## 💼 Screenshot 2023-24 ![Screenshot 2023-24](2023-24%20sales%20data%20report%20Screenshot.png)
-1. Encounters Overview ![Encounters Overview](Encounters%20Overview%20Dashboard%20Screenshot.png)
+## 💼 Screenshot 2023 ![Screenshot 2023](2023%20sales%20data%20report%20Screenshot.png)
+## 💼 Screenshot 2024 ![Screenshot 2024](2024%20sales%20data%20report%20Screenshot.png)
+
 ## 📈 Key Insights
 - West region has the highest sales.
 - North region has the lowest sales.
